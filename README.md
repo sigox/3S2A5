@@ -1,6 +1,6 @@
 # 介紹
 
-ALPHA Shop I：元件拆分
+ALPHA Shop II：元件渲染
 
 ## 預覽圖
 
@@ -12,7 +12,7 @@ ALPHA Shop I：元件拆分
 
 2.將專案 clone 到本地
 
-    git clone https://github.com/sigox/3S2A4.git
+    git clone https://github.com/sigox/3S2A5.git
 
 3.安裝 npm 套件
 
