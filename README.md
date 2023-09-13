@@ -4,7 +4,8 @@ ALPHA Shop II：元件渲染
 
 ## 預覽圖
 
-![圖片](https://github.com/sigox/3S2A5/assets/131880018/5484dc05-2a51-4065-9794-8106b677b86a)
+![圖片](https://github.com/sigox/3S2A5/assets/131880018/5193b337-c08d-4247-9157-f2e3577b5695)
+
 
 ## 執行方式
 
